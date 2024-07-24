@@ -76,7 +76,7 @@ nav ul li {
 
 #banner{
     height: 669px;
-    background-image: linear-gradient(0.00deg, rgb(18, 18, 18) 0%,rgba(0, 0, 0, 0) 100%), url(/images/donation5.jpg);
+    background-image: linear-gradient(0.00deg, rgb(18, 18, 18) 0%,rgba(0, 0, 0, 0) 100%), url(images/donation5.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
